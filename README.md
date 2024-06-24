@@ -27,7 +27,7 @@ Actualmente estoy profundizando mis conocimientos en:
 
 ## ☕ ¿Charlamos?
 
-- LinkedIn: [tu perfil de LinkedIn]
-- Email: [tu@email.com](mailto:tu@email.com)
+- LinkedIn: https://www.linkedin.com/in/merlinavillecco/
+- Email: mer.villecco21@gmail.com
 
 Siempre estoy abierta a nuevas oportunidades para crecer, aprender y contribuir en proyectos desafiantes. ¡No dudes en contactarme para colaborar o intercambiar ideas!
